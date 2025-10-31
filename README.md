@@ -12,6 +12,8 @@ Uma empresa com foco no segmento de varejo, deseja migrar o ambiente computacion
 #### Instruções
 Com este cenário, desenhar como será a arquitetura deste ambiente na nuvem AWS, que recursos serão utilizados, que elementos serão considerados na calculadora de custos e como seria um plano macro de migração destes ambientes (dados e sistemas) para a nuvem AWS. Será marcada uma avaliação de 1h para explicar o que foi pedido acima. O desenho pode ser simplificado, o importante será a explicação no momento da entrevista para este teste.
 
+# SOLUÇÃO
+
 ## Layout As-is
 
 ![Layout As-Is](Layout-As-Is.png)
